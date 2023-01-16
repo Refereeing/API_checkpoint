@@ -1,0 +1,23 @@
+.App-list {
+  text-align: center;
+  color: rgb(230, 18, 18);
+}
+.App {
+  text-align: center;
+  background-color: darkgray;
+}
+
+
+
+
+.user-card{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  color:#21df41
+  
+}
+.mb-2{
+  margin-right: 20px;
+  margin-top: 5%;
+}
